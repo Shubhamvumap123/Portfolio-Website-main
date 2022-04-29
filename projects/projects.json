@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Overstock Clone",
+    "desc": "This is clone website of Overstock.com. Overstock is an ecommerse website where user can buy all kinds of Furniture products",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://overstockk.netlify.app/",
+      "code": "https://github.com/Shubhamvumap123/Overstock"
+    }
+  },
+  {
+    "name": "Expedia Clone",
+    "desc": "Expedia is one of the fastest growing online travel portals in Asia, offering travellers an extensive selection of hotels, activities and travel services to meet every budget and activities of every kind at competitive rates..",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "/",
+      "code": "https://github.com/Shubhamvumap123/Project_Expedia_Masai"
+    }
+  }
+  
+]
